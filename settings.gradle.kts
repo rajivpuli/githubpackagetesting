@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GitHubPackageTesting"
 include(":app")
+include(":githubpackage")
